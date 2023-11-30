@@ -1,4 +1,4 @@
-# Trillion Dollar Words: A New Financial Dataset, Task & Market Analysis
+# Reproduced work of Trillion Dollar Words: A New Financial Dataset, Task & Market Analysis
 
 This codebase contains the python scripts for the model, dataset, and market analysis for the ACL 2023 paper, "Trillion Dollar Words: A New Financial Dataset, Task & Market Analysis". This work was done at the Financial Services Innovation Lab of Georgia Tech. The FinTech lab is a hub for finance education, research and industry in the Southeast. 
 
