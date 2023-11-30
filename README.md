@@ -44,23 +44,5 @@ The fine-tuned version of the best performing model 'RoBERTa-large' is available
 ## Datasets
 All the annotated datasets with train-test splits for 3 seeds are available in [GitHub folder](https://github.com/gtfintechlab/fomc-hawkish-dovish/tree/main/training_data/test-and-training)
 
-## Cite
-Please cite our paper if you use any code, data, or models.
-
-```c
-@article{shah2023trillion, 
-  title={Trillion Dollar Words: A New Financial Dataset, Task & Market Analysis},
-  author={Shah, Agam and Paturi, Suvan and Chava, Sudheer},
-  journal={Available at SSRN 4447632},
-  year={2023}
-}
-```
-
-## Contact Information
-
-Please raise issue on GitHub or contact Agam Shah (ashah482[at]gatech[dot]edu) for any issues and questions.  
-GitHub: [@shahagam4](https://github.com/shahagam4) 
-Website: [https://shahagam4.github.io/](https://shahagam4.github.io/)
-
 
 
